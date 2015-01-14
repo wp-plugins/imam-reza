@@ -25,7 +25,7 @@ License URI: http://www.7learn.com/
 
 بله
 == Screenshots ==
-1. Screen shot (screenshot.jpg) in preview
+1. Screen shot (screenshot-1.jpg) in preview
 == Changelog ==
 
 = 1.0 =
