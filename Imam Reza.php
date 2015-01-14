@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 /*
 Plugin Name: Razavi TV
 Description: Online watching Mashhad-Harame emam Reza
