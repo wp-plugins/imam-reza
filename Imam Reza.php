@@ -23,7 +23,7 @@ parent::__construct(
 __('زیارت امام رئوف (علیه السلام)', 'zamen_widget_domain'), 
 
 // Widget description
-array( 'description' => __( 'افزونه ی جملات و خاطرات قصار محمد تقی بهجت فومنی', 'zamen_widget_domain' ), ) 
+array( 'description' => __( 'زیارت مجازی حضرت امام رضا (علیه السام)', 'zamen_widget_domain' ), ) 
 );
 }
 
