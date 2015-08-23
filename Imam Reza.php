@@ -2,14 +2,11 @@
 /*
 Plugin Name: Razavi TV
 Description: Online watching Mashhad-Harame emam Reza
-author:Reza nasrollahi in 7learn.com
-Plugin URI: http://7learn.com/
+author:Reza nasrollahi in 3zar.ir
+Plugin URI: http://3zar.ir
 
 */
-/* Start Adding Functions Bezamenw this Line */
 
-
-/* Stop Adding Functions Bezamenw this Line */
 ?>
 <?php // Creating the widget 
 class zamen_widget extends WP_Widget {

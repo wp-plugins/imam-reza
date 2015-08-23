@@ -1,12 +1,12 @@
 === Plugin Name ===
 Contributors: alabdrezvan
-Donate link: http://www.7learn.com/payment/?price=1000
+Donate link: http://www.3zar.ir
 Tags: Imam Reza,mashhad,امام رضا(علیه السلام)،شمس الشموس،ثامن،پخش آنلاین،زیارت آنلاین،online,islamic,islam,shiye,
 Requires at least: 3.0.1
 Tested up to: 4
 Stable tag: 4.3
 License: GPLv2 or later
-License URI: http://www.7learn.com/
+License URI: http://www.3zar.ir
 
 افزونه ای برای زیارت آنلاین مرقد مطهر حضرت علی بن موسی الرضاالمرتضی(علیه السلام)
 == Description ==
